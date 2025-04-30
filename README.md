@@ -4,6 +4,8 @@
 ## 1. A `Conversational chatbot` as same as `ChatGPT v3.5 + Image Summarization` Capabilities through `GOOGLE GEMINI VISION PRO API`.
 
 https://github.com/jaiminjariwala/Multimodal-Content-Generation-using-LLMs/assets/157014747/e4cd27c9-d0ed-42e9-94fc-bc0458eb8437
+![image](https://github.com/user-attachments/assets/76ecd44b-ab41-4a37-aac5-9601382edacf)
+
 
 <img width="1312" alt="Screenshot 2024-03-07 at 5 00 49 PM" src="https://github.com/jaiminjariwala/Multimodal-Content-Generation-using-LLMs/assets/157014747/ffa998b9-791d-446b-b951-2f36545ac014">
 
