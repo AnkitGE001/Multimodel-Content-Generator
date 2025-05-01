@@ -7,7 +7,8 @@
 ![image](https://github.com/user-attachments/assets/76ecd44b-ab41-4a37-aac5-9601382edacf)
 
 
-<img width="1312" alt="Screenshot 2024-03-07 at 5 00 49 PM" src="https://github.com/jaiminjariwala/Multimodal-Content-Generation-using-LLMs/assets/157014747/ffa998b9-791d-446b-b951-2f36545ac014">
+![310861239-ffa998b9-791d-446b-b951-2f36545ac014](https://github.com/user-attachments/assets/ecdefde6-4e0a-4b5e-b080-7e30e8ee8196)
+
 
 ## 2. `Text to Image` (using Stability Ai (Stable Diffusion)) through `REPLICATE API`.
 <img width="673" alt="Screenshot 2024-03-07 at 10 58 41 AM" src="https://github.com/jaiminjariwala/Multimodal-Content-Generation-using-LLMs/assets/157014747/bbfd362e-5437-4807-b58a-09e6efde06f8">
